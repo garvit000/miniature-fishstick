@@ -1,0 +1,5 @@
+Model,Modality,Accuracy,Precision,Recall,F1-score
+Gaussian Naive Bayes,Multimodal,0.5364,0.5371,0.5364,0.535
+Logistic Regression,Multimodal,0.554,0.5653,0.554,0.5319
+Linear Discriminant Analysis,Multimodal,0.5506,0.5652,0.5506,0.5215
+SVM (RBF Kernel),Multimodal,0.4696,0.4696,0.4696,0.4696

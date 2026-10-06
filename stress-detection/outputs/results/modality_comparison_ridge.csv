@@ -1,0 +1,7 @@
+Model,Modality,MSE,MAE,R²,Num_Features
+Ridge Regression,EEG,442.9706,17.1299,-0.3876,193
+Ridge Regression,PPG,313.2186,15.0124,0.0188,5
+Ridge Regression,EDA,303.878,14.4348,0.0481,6
+Ridge Regression,ACC,743.2212,16.419,-1.3281,17
+Ridge Regression,TEMP,309.891,14.3547,0.0293,2
+Ridge Regression,MULTIMODAL,759.0186,18.8144,-1.3776,223

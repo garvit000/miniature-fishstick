@@ -1,0 +1,7 @@
+Model,Modality,Accuracy,Precision,Recall,F1-score,Num_Features
+Gaussian Naive Bayes,EEG,0.4845,0.4807,0.4845,0.4496,193
+Gaussian Naive Bayes,PPG,0.5076,0.5127,0.5076,0.4337,5
+Gaussian Naive Bayes,EDA,0.4969,0.4939,0.4969,0.4561,6
+Gaussian Naive Bayes,ACC,0.5427,0.546,0.5427,0.5326,17
+Gaussian Naive Bayes,TEMP,0.5105,0.5105,0.5105,0.5042,2
+Gaussian Naive Bayes,MULTIMODAL,0.5364,0.5371,0.5364,0.535,223

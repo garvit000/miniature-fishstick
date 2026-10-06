@@ -1,1 +1,25 @@
-.agent
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Data artifacts & large files
+stress-detection/data/EPIStress/
+stress-detection/data/*.csv
+*.bin
+*.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Agent workflows & artifacts
+.agent/

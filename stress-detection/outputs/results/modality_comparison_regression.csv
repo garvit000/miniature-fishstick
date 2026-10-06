@@ -1,0 +1,7 @@
+Model,Modality,MSE,MAE,R²,Num_Features
+Polynomial Regression,EEG,471.737,17.9461,-0.4777,193
+Polynomial Regression,PPG,299.8581,14.7222,0.0607,5
+Polynomial Regression,EDA,305.1266,14.2872,0.0442,6
+Polynomial Regression,ACC,22542.3706,39.9176,-69.6139,17
+Polynomial Regression,TEMP,326.0636,15.3192,-0.0214,2
+Polynomial Regression,MULTIMODAL,328.738,14.697,-0.0298,223

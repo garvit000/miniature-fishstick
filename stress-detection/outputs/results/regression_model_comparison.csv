@@ -1,0 +1,5 @@
+Model,Modality,MSE,MAE,R²
+Polynomial Regression,Multimodal,328.738,14.697,-0.0298
+Linear Regression,Multimodal,717.2967,18.4263,-1.2469
+Ridge Regression,Multimodal,759.0186,18.8144,-1.3776
+Bayesian Linear,Multimodal,766.1906,18.8564,-1.4001
